@@ -1,0 +1,90 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Terms of Service | PeakReplay Clips</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #0c1020;
+      color: #f5f6fa;
+      line-height: 1.7;
+      margin: 0;
+    }
+    main {
+      max-width: 800px;
+      margin: 50px auto;
+      padding: 24px;
+    }
+    a { color: #7dd3fc; }
+    h1, h2 { color: #fff; }
+    p { color: #cbd5e1; }
+  </style>
+</head>
+<body>
+<main>
+  <a href="/">← Back to PeakReplay Clips</a>
+  <h1>Terms of Service</h1>
+  <p>Last updated: November 15, 2026</p>
+
+  <h2>1. About the Service</h2>
+  <p>
+    PeakReplay Clips is a desktop-based tool under development
+    that helps creators prepare short-form video content,
+    captions, and publishing metadata.
+  </p>
+
+  <h2>2. Authorized Content</h2>
+  <p>
+    Users must own their content or have the necessary rights
+    and permissions to edit, upload, and distribute it.
+    Users are responsible for complying with copyright laws
+    and applicable platform requirements.
+  </p>
+
+  <h2>3. Connected Accounts</h2>
+  <p>
+    Users may authorize supported social media integrations
+    when those features become available. Users are
+    responsible for maintaining control of their accounts
+    and reviewing content before publication.
+  </p>
+
+  <h2>4. Acceptable Use</h2>
+  <p>
+    Users must not use PeakReplay Clips to distribute
+    unlawful, infringing, deceptive, or otherwise prohibited
+    content, or to violate social media platform rules.
+  </p>
+
+  <h2>5. Availability</h2>
+  <p>
+    PeakReplay Clips is currently in development.
+    Features may change, become unavailable, or require
+    additional authorization from third-party platforms.
+  </p>
+
+  <h2>6. Third-Party Platforms</h2>
+  <p>
+    TikTok, Instagram, YouTube, and other platforms operate
+    independently of PeakReplay Clips. Their respective
+    terms, policies, and technical limitations apply.
+  </p>
+
+  <h2>7. Changes to These Terms</h2>
+  <p>
+    These terms may be updated as the application develops.
+    The latest version will be published on this website.
+  </p>
+
+  <h2>8. Contact</h2>
+  <p>
+    Questions about these terms may be directed to the
+    application operator through the contact information
+    published on the PeakReplay Clips website.
+  </p>
+</main>
+</body>
+</html>
