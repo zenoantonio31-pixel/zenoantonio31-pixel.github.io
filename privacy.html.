@@ -1,0 +1,83 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy | PeakReplay Clips</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #0c1020;
+           color: #f5f6fa; line-height: 1.7; margin: 0; }
+    main { max-width: 800px; margin: 50px auto; padding: 24px; }
+    a { color: #7dd3fc; }
+    h1, h2 { color: #fff; }
+    p, li { color: #cbd5e1; }
+  </style>
+</head>
+<body>
+<main>
+  <a href="/">← Back to PeakReplay Clips</a>
+  <h1>Privacy Policy</h1>
+  <p>Last updated: November 15, 2026</p>
+
+  <h2>1. About PeakReplay Clips</h2>
+  <p>
+    PeakReplay Clips is a desktop-based video preparation tool
+    currently in development. It is intended to help creators
+    prepare short-form videos and use authorized social media
+    integrations.
+  </p>
+
+  <h2>2. Information We May Process</h2>
+  <p>
+    If social media integrations are enabled, the application
+    may process account identifiers, authorization tokens,
+    video files, captions, and publishing-related metadata
+    necessary to provide its functionality.
+  </p>
+
+  <h2>3. How Information Is Used</h2>
+  <p>
+    Information is used to authenticate authorized accounts,
+    prepare video content, and perform actions explicitly
+    requested by the account holder.
+  </p>
+
+  <h2>4. Data Storage and Security</h2>
+  <p>
+    The current development version runs locally on the
+    developer's computer. Future versions may use additional
+    infrastructure, in which case this policy will be updated
+    before those features become available.
+  </p>
+
+  <h2>5. Data Sharing</h2>
+  <p>
+    Information may be transmitted to connected social media
+    platforms when users authorize the integration and
+    initiate supported actions. We do not sell personal data.
+  </p>
+
+  <h2>6. Data Retention and Deletion</h2>
+  <p>
+    Account authorization information and locally stored
+    content may be retained as necessary for the application's
+    functionality. Users may request deletion of their data
+    using the contact information provided by the application.
+  </p>
+
+  <h2>7. Changes to This Policy</h2>
+  <p>
+    This policy may be updated as the application develops.
+    The latest version will be available on this website.
+  </p>
+
+  <h2>8. Contact</h2>
+  <p>
+    For privacy questions or data deletion requests, please
+    contact the application operator through the contact
+    information published on the PeakReplay Clips website.
+  </p>
+</main>
+</body>
+</html>
